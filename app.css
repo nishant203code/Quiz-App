@@ -76,7 +76,7 @@ h3 {
     display: none;
 }
 
-
+/*Buttons*/
 .btn {
     font-size: 1.8rem;
     padding: 1rem 0;
@@ -100,5 +100,5 @@ h3 {
     cursor: not-allowed;
     box-shadow: none;
     transform: none;
-  }
+  } 
   
