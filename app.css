@@ -1,4 +1,4 @@
-body{
+:root{
     background-color: #ecf5ff;
     font-size: 62.5%;
 }
@@ -49,6 +49,8 @@ h3 {
     justify-content: center;
     align-items: center;
     max-width: 80rem;
+    margin: 0 auto;
+    padding: 2rem;
 }
 
 .container > * {
@@ -101,4 +103,3 @@ h3 {
     box-shadow: none;
     transform: none;
   } 
-  
